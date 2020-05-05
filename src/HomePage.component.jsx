@@ -8,7 +8,7 @@ const HomePage = () => {
       <div className='directory-menu'>
         <div className='menu-item'>
           <div className='content'>
-            <div className='title'>HATS</div>
+            <div className='title'>BAG</div>
             <div className='subtitle'>SHOP NOW</div>
           </div>
         </div>

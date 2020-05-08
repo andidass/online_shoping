@@ -3,14 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyDu0Zb2ea6osRTnSOYf5FiWwylZpSKlS2Q',
+  apiKey: '1234567890',
   authDomain: 'airbrand-shop.firebaseapp.com',
   databaseURL: 'https://airbrand-shop.firebaseio.com',
   projectId: 'airbrand-shop',
   storageBucket: 'airbrand-shop.appspot.com',
-  messagingSenderId: '624890844239',
-  appId: '1:624890844239:web:670a1b74779c58d27d863a',
-  measurementId: 'G-FTQN9FY35M',
+  messagingSenderId: '62489084xxxxxxxxx',
+  appId: '1:624xxxxxxxxx:web:670a1b74xxxxxxx',
+  measurementId: 'G-FTQN9xxxxx',
 };
 // Initialize Firebase
 firebase.initializeApp(config);
